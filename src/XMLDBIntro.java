@@ -35,6 +35,7 @@ public class XMLDBIntro {
 
         // adquirir la col·lecció que volem tractar
         Collection col = DatabaseManager.getCollection(URI+"/db","admin","admin");
+        System.out.println(col.getName());
 
         //afegir el recurs que farem servir
         Resource res = col.createResource("mondial2.xml","XMLResource");

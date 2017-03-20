@@ -1,0 +1,13 @@
+Heu de crear un programa que faci el següent:
+
+    Crei una col·lecció
+    Afegeixi un recurs a una col·lecció
+    Que retorni un recurs (i per exemple l'imprimeixi per pantalla)
+    Que faci una consulta en una col·lecció
+    Que faci consultes sobre una col·lecció
+
+HINT: Per a veure per on van els trets podeu consultar els apunts del IOC, (apartat 3.2)
+http://ioc.xtec.cat/materials/FP/Materials/2252_DAM/DAM_2252_M06/web/html/index.html
+
+Per a veure un exemple d'alguna cosa semblant al que es demana en l'última secció (i pot ser altres coses) podeu veure la web del desenvolupador d'eXist-DB
+(que evident no funciona directament) http://exist-db.org/exist/apps/doc/devguide_xmlrpc.xml
